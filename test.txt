@@ -1,1 +1,0 @@
-this is a testing content form the infra repo for the terraform developers.
